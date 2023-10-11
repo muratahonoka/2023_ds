@@ -14,7 +14,7 @@
 ---
 [大学HP](https://www.nagoya-cu.ac.jp)
 
-![画像](https://example.com/image.jpg)
+![画像](https://www.nagoya-cu.ac.jp/sda/common/image/header-logo.png)
 
 ---
 
